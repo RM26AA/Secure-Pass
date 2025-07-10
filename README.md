@@ -1,4 +1,46 @@
-# Welcome to your Lovable project
+# 🔐 Modern Password Generator & Strength Checker
+
+A sleek, minimal password generator and real-time strength checker built for strong password hygiene. This web app helps users create secure, customizable passwords with smart suggestions and intuitive UI design.
+
+## 🚀 Features
+
+- ✅ Real-time password strength checker
+- 🔄 Suggests stronger versions of weak passwords
+- 🔒 Secure password generation with:
+  - Symbols / special characters
+  - Uppercase / lowercase letters
+  - Numbers
+  - Similar character filtering
+- 📏 Adjustable password length slider
+- 📋 One-click copy to clipboard
+- 💡 Clear instructions and user feedback
+- 🎨 Clean, modern design with smooth transitions
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React + Tailwind CSS
+- **Password Logic:** JavaScript-based validation & generation
+- **Tooling:** Vite / Create React App (adjust based on your setup)
+
+## 🧪 Getting Started
+
+Clone the repo and install dependencies:
+
+```
+git clone https://github.com/yourusername/password-generator.git
+cd password-generator
+npm install
+npm run dev
+```
+
+- Make sure you have Node.js and npm installed.
+
+## 📝 License
+This project is open-source and available under the MIT License.
+
+Made with ❤️ for modern web users.
+
+# Lovable Project Info
 
 ## Project info
 
